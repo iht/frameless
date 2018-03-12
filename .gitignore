@@ -19,6 +19,7 @@ bin/
 .settings/
 .ensime
 .ensime_cache/
+ensime.sbt
 
 # IntelliJ specific
 .idea
